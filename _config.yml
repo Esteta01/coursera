@@ -1,0 +1,8 @@
+title: Module2_Coding
+description: Assignments for all my coursera courses
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
